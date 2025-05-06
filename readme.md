@@ -1,7 +1,7 @@
 # 🎬 Cards de Filmes de Super-Heróis
 
 <p align="center">
-  <img src="img/Filme.png" alt="Game" width="500"/>
+  <img src="img/filme.jpg" alt="Game" width="500"/>
 </p>
 
 
