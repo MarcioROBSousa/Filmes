@@ -5,7 +5,6 @@
 Este projeto é uma pequena vitrine de cards interativos com informações sobre filmes de super-heróis famosos como **Superman**, **Homem-Aranha** e **Capitão América**.
 
 ---
-
 ## 🔍 Visão Geral
 
 Cada card contém:
