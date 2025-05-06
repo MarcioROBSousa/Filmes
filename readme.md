@@ -1,6 +1,9 @@
 # 🎬 Cards de Filmes de Super-Heróis
 
-![Banner do Projeto](img/filme.jpg)
+<p align="center">
+  <img src="img/Filme.png" alt="Game" width="500"/>
+</p>
+
 
 Este projeto é uma pequena vitrine de cards interativos com informações sobre filmes de super-heróis famosos como **Superman**, **Homem-Aranha** e **Capitão América**.
 
