@@ -29,9 +29,3 @@ O layout é responsivo e elegante, com tema escuro para dar destaque aos filmes.
 - Design moderno com hover e sombras
 
 ---
-
-## 🚀 Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
