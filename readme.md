@@ -1,13 +1,14 @@
 # 🎬 Cards de Filmes de Super-Heróis
 
+
 <p align="center">
   <img src="img/filme.jpg" alt="Game" width="500"/>
 </p>
 
-
 Este projeto é uma pequena vitrine de cards interativos com informações sobre filmes de super-heróis famosos como **Superman**, **Homem-Aranha** e **Capitão América**.
 
 ---
+
 ## 🔍 Visão Geral
 
 Cada card contém:
@@ -28,3 +29,9 @@ O layout é responsivo e elegante, com tema escuro para dar destaque aos filmes.
 - Design moderno com hover e sombras
 
 ---
+
+## 🚀 Como Rodar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repo.git
