@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="img/filme.jpg" alt="Game" width="500"/>
+  <img src="img/filme.jpg" alt="Game" width="600"/>
 </p>
 
 Este projeto é uma pequena vitrine de cards interativos com informações sobre filmes de super-heróis famosos.
