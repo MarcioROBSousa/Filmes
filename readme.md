@@ -29,3 +29,4 @@ O layout é responsivo e elegante, com tema escuro para dar destaque aos filmes.
 - Design moderno com hover e sombras
 
 ---
+---
