@@ -14,7 +14,7 @@ Este projeto é uma pequena vitrine de cards interativos com informações sobre
 Cada card contém:
 - Uma imagem do filme
 - Título estilizado
-- Descrição breve
+- Sinopse do filme
 - Efeitos de hover com destaque visual
 
 O layout é responsivo e elegante, com tema escuro para dar destaque aos filmes.
