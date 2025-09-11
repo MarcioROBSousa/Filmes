@@ -1,3 +1,9 @@
+![GitHub top language](https://img.shields.io/github/languages/top/MarcioROBSousa/Filmes)
+![GitHub language count](https://img.shields.io/github/languages/count/MarcioROBSousa/Filmes)
+![GitHub repo size](https://img.shields.io/github/repo-size/MarcioROBSousa/Filmes)
+
+
+
 # 🎬 Cards de Filmes de Super-Heróis
 
 
